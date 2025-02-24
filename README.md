@@ -1,9 +1,10 @@
 # Geomorph Generator
 
 Geomorph Generator is an experimental project that applies GAN architectures to the procedural generation of dungeon maps. By leveraging DC-GAN and W-GAN-GP models, this project explores the generation of tessellated "geomorph" tiles, which can be linked together to create maps of adjustable sizes. This approach is particularly useful in game development and tabletop role-playing games (e.g., Dungeons & Dragons), where generating diverse and cost-effective content is key.
-
-![GAN_Geomorph](https://github.com/EdoardoCaproni/GeoGen/blob/main/generator_geo_gen_softnoisy_64.gif) "DC-GAN"
-![WGAN_Geomorph](https://github.com/EdoardoCaproni/GeoGen/blob/main/generator_geo_gen_wasserstein_64.gif) "W-GAN-GP"
+ **DC-GAN**
+![GAN_Geomorph](https://github.com/EdoardoCaproni/GeoGen/blob/main/generator_geo_gen_softnoisy_64.gif)
+**W-GAN-GP**
+![WGAN_Geomorph](https://github.com/EdoardoCaproni/GeoGen/blob/main/generator_geo_gen_wasserstein_64.gif)
 
 ## Overview
 

@@ -64,8 +64,8 @@ The Wasserstein GAN with Gradient Penalty (W-GAN-GP) replaces the traditional di
 
 ## Acknowledgements
 - **Dataset Sources:**
- - *Dave’s Mapper GitHub Repository*
- - *Aeons & Augauries Blog*
+  - *Dave’s Mapper GitHub Repository*
+  - *Aeons & Augauries Blog*
 - **References:**
- - D. Fernandes e Silva, R. Torchelsen, and M. Aguiar. "Dungeon level generation using generative adversarial network: an experimental study for top-down view games." (2023).
- - I. Gulrajani et al. "Improved Training of Wasserstein GANs." arXiv:1704.00028.
+  - D. Fernandes e Silva, R. Torchelsen, and M. Aguiar. "Dungeon level generation using generative adversarial network: an experimental study for top-down view games." (2023).
+  - I. Gulrajani et al. "Improved Training of Wasserstein GANs." arXiv:1704.00028.

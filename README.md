@@ -62,6 +62,10 @@ The Wasserstein GAN with Gradient Penalty (W-GAN-GP) replaces the traditional di
 
 ## Experimental Results
 
+- **Training Losses**
+  ![https://github.com/EdoardoCaproni/GeoGen/blob/main/GNN%20Loss.png ](https://github.com/EdoardoCaproni/GeoGen/blob/main/GNN%20Loss.png)
+  ![https://github.com/EdoardoCaproni/GeoGen/blob/main/WGNN%20Loss.png](https://github.com/EdoardoCaproni/GeoGen/blob/main/WGNN%20Loss.png)
+
 - **Early Results:**
   - *DC-GAN:* After 320 epochs, experiments at a working resolution of 284×284 (before applying soft & noisy labeling) showed initial promise.
   - *W-GAN:* Early tests at 100 epochs with a working resolution of 64×64 produced more consistent results.

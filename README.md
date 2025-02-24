@@ -1,6 +1,6 @@
 # Geomorph Generator
 
-Geomorph Generator is an experimental project that applies GAN architectures to the procedural generation of dungeon maps. By leveraging state-of-the-art DC-GAN and W-GAN-GP models, this project explores the generation of tessellated "geomorph" tiles, which can be linked together to create maps of adjustable sizes. This approach is particularly useful in game development and tabletop role-playing games (e.g., Dungeons & Dragons), where generating diverse and cost-effective content is key.
+Geomorph Generator is an experimental project that applies GAN architectures to the procedural generation of dungeon maps. By leveraging DC-GAN and W-GAN-GP models, this project explores the generation of tessellated "geomorph" tiles, which can be linked together to create maps of adjustable sizes. This approach is particularly useful in game development and tabletop role-playing games (e.g., Dungeons & Dragons), where generating diverse and cost-effective content is key.
 
 ## Overview
 
@@ -64,8 +64,8 @@ The Wasserstein GAN with Gradient Penalty (W-GAN-GP) replaces the traditional di
 
 ## Acknowledgements
 - **Dataset Sources:**
- - Dave’s Mapper GitHub Repository
- - Aeons & Augauries Blog
-- **References**:
+ - *Dave’s Mapper GitHub Repository*
+ - *Aeons & Augauries Blog*
+- **References:**
  - D. Fernandes e Silva, R. Torchelsen, and M. Aguiar. "Dungeon level generation using generative adversarial network: an experimental study for top-down view games." (2023).
  - I. Gulrajani et al. "Improved Training of Wasserstein GANs." arXiv:1704.00028.
